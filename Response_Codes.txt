@@ -1,0 +1,63 @@
+100_Continue
+101_Switching Protocol
+102_Processing (WebDAV)
+103_Early Hints
+200_OK
+201_Created
+202_Accepted
+203_Non-Authoritative Information
+204_No Content
+205_Reset Content
+206_Partial Content
+207_Multi-Status (WebDAV)
+208_Already Reported (WebDAV)
+226_IM Used (HTTP Delta encoding)
+300_Multiple Choice
+301_Moved Permanently
+302_Found
+303_See Other
+304_Not Modified
+305_Use Proxy
+306_unused
+307_Temporary Redirect
+308_Permanent Redirect
+400_Bad Request
+401_Unauthorized
+402_Payment Required 
+403_Forbidden
+404_Not Found
+405_Method Not Allowed
+406_Not Acceptable
+407_Proxy Authentication Required
+408_Request Timeout
+409_Conflict
+410_Gone
+411_Length Required
+412_Precondition Failed
+413_Payload Too Large
+414_URI Too Long
+415_Unsupported Media Type
+416_Range Not Satisfiable
+417_Expectation Failed
+418_I'm a teapot
+421_Misdirected Request
+422_Unprocessable Entity (WebDAV)
+423_Locked (WebDAV)
+424_Failed Dependency (WebDAV)
+425_Too Early
+426_Upgrade Required
+428_Precondition Required
+429_Too Many Requests
+431_Request Header Fields Too Large
+451_Unavailable For Legal Reasons
+500_Internal Server Error
+501_Not Implemented
+502_Bad Gateway
+503_Service Unavailable
+504_Gateway Timeout
+505_HTTP Version Not Supported
+506_Variant Also Negotiates
+507_Insufficient Storage (WebDAV)
+508_Loop Detected (WebDAV)
+510_Not Extended
+511_Network Authentication Required
